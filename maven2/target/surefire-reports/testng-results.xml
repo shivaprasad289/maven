@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="65" started-at="2020-12-26T04:48:38Z" finished-at="2020-12-26T04:48:38Z">
+  <suite name="Suite" duration-ms="76" started-at="2020-12-26T09:08:40Z" finished-at="2020-12-26T09:08:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="65" started-at="2020-12-26T04:48:38Z" finished-at="2020-12-26T04:48:38Z">
+    <test name="Test" duration-ms="76" started-at="2020-12-26T09:08:40Z" finished-at="2020-12-26T09:08:40Z">
       <class name="maven2.Test01">
-        <test-method status="PASS" signature="TestHelloword()[pri:0, instance:maven2.Test01@1a84f40f]" name="TestHelloword" duration-ms="19" started-at="2020-12-26T10:18:38Z" finished-at="2020-12-26T10:18:38Z">
+        <test-method status="PASS" signature="TestHelloword()[pri:0, instance:maven2.Test01@1a84f40f]" name="TestHelloword" duration-ms="23" started-at="2020-12-26T14:38:40Z" finished-at="2020-12-26T14:38:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestHelloword -->
